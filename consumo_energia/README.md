@@ -46,7 +46,7 @@ R$ 0,75 por kWh (valor padrão)
 1. Clone o repositório:
 
 ```
-git clone https://github.com/seelig2014-dev/Luis_Seelig/consumo-energia.git
+git clone https:https://github.com/seelig2014-dev/Projetos/blob/main/consumo_energia/consumo_energia.py
 ```
 
 2. Acesse a pasta do projeto:
