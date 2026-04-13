@@ -1,6 +1,6 @@
 # Pesquisa de Satisfação
 
-Projeto de tarefa da agenda 8 da disciplina de desenvolvimento de sistemas, desenvolvido emna linguagem Python para analisar a opinião de clientes sobre o atendimento de uma empresa.
+Projeto de tarefa da agenda 8 da disciplina de desenvolvimento de sistemas, desenvolvido em linguagem Python para analisar a opinião de clientes sobre o atendimento de uma empresa.
 
 ## Objetivo
 Realizar uma pesquisa com 50 entrevistados para avaliar o nível de satisfação no atendimento.
