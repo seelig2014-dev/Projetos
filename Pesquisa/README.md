@@ -27,5 +27,5 @@ Ao final da execução, o programa exibe:
 - Quantidade de respostas RUIM (`qtd_ruim`)
 
 ## Como executar
-<-> bash
+Copiar e executar o arquivo
 python Luis_paulo_Ag8_DS_I.py
