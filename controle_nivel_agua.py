@@ -50,4 +50,4 @@ for i in range(1, 6):
     print(mensagem)
 
 # Restaura o terminal ao padrão
-print(Style.RESET_ALL)
+print(Style.RESET_ALL) 
